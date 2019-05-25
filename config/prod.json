@@ -1,0 +1,17 @@
+{
+  "logging": {
+    "type": "structured"
+  },
+  "custom": {
+    "token": "NTgxODc0OTUxNzEyMjc2Njky.XOlnUQ.vsWrX11dXqFrppbMEr0Evcltp9M",
+    "prefix": "prefix",
+    "mongo": {
+      "url": "url",
+      "user": "user",
+      "password": "pass"
+    },
+    "messages": {
+      "ready": "DiscordGo Bot"
+    }
+  }
+}
