@@ -1,8 +1,10 @@
 package handlers
 
 import (
-	// External Modules
+	// App Modules
 	"github.com/Noxdew/discordgo-starter-bot/bot"
+
+	// External Modules
 	"github.com/bwmarrin/discordgo"
 )
 

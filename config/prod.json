@@ -1,6 +1,6 @@
 {
   "logging": {
-    "type": "structured"
+    "type": "unstructured"
   },
   "custom": {
     "token": "NTgxODc0OTUxNzEyMjc2Njky.XOlnUQ.vsWrX11dXqFrppbMEr0Evcltp9M",
